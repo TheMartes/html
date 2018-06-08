@@ -1,0 +1,46 @@
+body,html{
+	margin: 0;
+}
+body{
+	background: red;
+	text-align: center;
+	color: white;
+	padding: 25px 0;
+	font-family: "Segoe UI",Frutiger,"Frutiger Linotype","Dejavu Sans","Helvetica Neue",Arial,sans-serif;
+}
+h1{
+	font-size: 100px;
+	font-family: "Arial Rounded MT Bold","Helvetica Rounded",Arial,sans-serif;
+}
+.special{
+	color: black;
+	background: aquamarine;
+	width: 300px;
+	margin: 20px auto;
+	border: 12px solid purple;
+	border-radius: 3px;
+	height: 75px;
+	overflow: scroll;
+}
+p{
+	line-height: 22px;
+	margin-top: 50px;
+}
+a{
+	color: red;
+	background: white;
+	text-decoration: none;
+	padding: 3px 6px;
+	border-radius: 3px;
+	font-weight: bold;
+}
+a:hover{
+	background: green;
+}
+.butt{
+	color: blue;
+}
+.main{
+	margin: 50px auto;
+	width: 50%;
+}
